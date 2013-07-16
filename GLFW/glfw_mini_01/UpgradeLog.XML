@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="glfw_mini_01">
+</Property><Property Name="Solution File" Value="E:\glfw_mini_1\glfw_mini_1\glfw_mini_01\glfw_mini_01.sln">
+</Property><Property Name="User Options File" Value="E:\glfw_mini_1\glfw_mini_1\glfw_mini_01\glfw_mini_01.suo">
+</Property><Property Name="Date" Value="03 July 2012">
+</Property><Property Name="Time" Value="20:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="glfw_mini_01.sln" Description="File successfully backed up as E:\glfw_mini_1\glfw_mini_1\glfw_mini_01\glfw_mini_01.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="glfw_mini_01.suo" Description="File successfully backed up as E:\glfw_mini_1\glfw_mini_1\glfw_mini_01\glfw_mini_01.suo.old">
+</Event><Event ErrorLevel="0" Project="glfw_mini_01" Source="glfw_mini_01\glfw_mini_01.vcproj" Description="Converting project file 'E:\glfw_mini_1\glfw_mini_1\glfw_mini_01\glfw_mini_01\glfw_mini_01.vcproj'.">
+</Event><Event ErrorLevel="1" Project="glfw_mini_01" Source="glfw_mini_01\glfw_mini_01.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="glfw_mini_01" Source="glfw_mini_01\glfw_mini_01.vcproj" Description="Done converting to new project file 'E:\glfw_mini_1\glfw_mini_1\glfw_mini_01\glfw_mini_01\glfw_mini_01.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="glfw_mini_01" Source="glfw_mini_01\glfw_mini_01.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="glfw_mini_01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="glfw_mini_01.sln" Description="Converted">
+</Event></UpgradeLog>

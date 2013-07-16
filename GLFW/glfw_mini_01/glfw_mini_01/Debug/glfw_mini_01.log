@@ -1,0 +1,22 @@
+﻿Build started 05-03-2013 16:10:53.
+     1>Project "D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\glfw_mini_01\glfw_mini_01.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\glfw_mini_01.exe" /INCREMENTAL /NOLOGO /LIBPATH:"../lib-msvc90/debug" opengl32.lib glu32.lib glfw.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\glfw_mini_01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\glfw_mini_01.lib" /MACHINE:X86 /SAFESEH Debug\main.obj
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     1>glfw.lib(enable.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(enable.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(glext.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(glext.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(init.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(init.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(input.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(input.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(win32_enable.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(win32_enable.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(win32_fullscreen.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(win32_fullscreen.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(win32_glext.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(win32_glext.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(win32_init.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(win32_init.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(win32_time.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(win32_time.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(win32_window.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(win32_window.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+     1>glfw.lib(window.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'glfw.lib(window.obj)' or at 'D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\vc90.pdb'; linking object as if no debug info
+         glfw_mini_01.vcxproj -> D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\Debug\glfw_mini_01.exe
+     1>Done Building Project "D:\EALC\OpenGL\glfw_mini_1\glfw_mini_01\glfw_mini_01\glfw_mini_01.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:18.56
